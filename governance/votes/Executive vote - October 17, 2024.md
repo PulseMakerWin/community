@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Vote] Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave-SparkLend Revenue Share Payment for Q3 2024, Spark Proxy Spell - October 17, 2024
+title: Template - [Executive Vote] Testing 12 - Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave-SparkLend Revenue Share Payment for Q3 2024, Spark Proxy Spell - October 17, 2024
 summary: Initialize the Seal Engine, fund the Multisig responsible for distributing Early Bird Rewards, reduce debt ceilings of deprecated RWA vaults, approve DAO Resolution for Pinwheel, transfer payment for the Aave-SparkLend Revenue Share for Q3 2024, execute a Spark Proxy Spell.
-date: 2024-10-17T00:00:00.000Z
-address: "0xACA9a90C92647e3d3f04095118192DC80C470955"
+date: 2023-07-07T00:00:00.000Z
+address: "0xbE286431454714F511008713973d3B053A2d38f3"
 
 ---
 # [Executive Proposal] Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave Revenue Share Payment, Spark Proxy Spell - October 17, 2024
 
-The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
+Seal Team 6 Governance Facilitators are going to try another test. Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
 If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
