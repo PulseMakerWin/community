@@ -1,5 +1,5 @@
 ---
-title: Should we make a poll - October 28, 2024
+title: Should we make a poll - November 01, 2024
 summary: Should we make a poll for PulseMaker
 parameters:
     input_format:
@@ -20,8 +20,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-10-28T16:00:00
-end_date: 2024-10-31T16:00:00
+start_date: 2024-11-01T16:00:00
+end_date: 2024-11-02T16:00:00
 ---
 ### Poll: How about we make a poll
 Looking for your vote
