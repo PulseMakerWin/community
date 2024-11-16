@@ -1,17 +1,17 @@
 [
   {
     "creator": "0xEA00F4f908783C4140Fa7D287F4B340B5FEDd020",
-    "pollId": 945,
-    "blockCreated": 20406641,
+    "pollId": 1002,
+    "blockCreated": 21942937,
     "startDate": "2024-11-01T16:00:00.000Z",
     "endDate": "2024-11-02T16:00:00.000Z",
-    "multiHash": "QmUqYN14YJFj35NW7rsHxUPwonSPMNUqQiCaYaZHEUDi1o",
-    "url": "https://raw.githubusercontent.com/PulseMakerWin/community/refs/heads/master/governance/polls/YourPoll.md",
-    "slug": "QmUqYN14",
-    "title": "Should we make a poll - November 01, 2024",
-    "summary": "Should we make a poll for PulseMaker",
-    "discussionLink": "",
-    "content": "<h2 id=\"title-should-we-make-a-poll---November-01-2024-summary-should-we-make-a-poll-for-pulsemaker-parameters-----input_format---------type-single-choice---------abstain-0-----victory_conditions------------------------type-and-------------conditions-------------------type--plurality-------------------type--comparison-comparator---value-20000----------------------------------type--default-value--2------result_display-single-vote-breakdown-version-v200-options----0-abstain----1-yes----2-no-start_date-2024-10-28t160000-end_date-2024-10-31t160000\">title: Should we make a poll - October 28, 2024 summary: Should we make a poll for PulseMaker parameters: input_format: type: single-choice abstain: [0] victory_conditions: - { type: &#39;and&#39;, conditions: [ { type : plurality }, { type : comparison, comparator : &#39;&gt;=&#39;, value: 20000 } ] } - {type : default, value : 2 } result_display: single-vote-breakdown version: v2.0.0 options: 0: Abstain 1: Yes 2: No start_date: 2024-10-28T16:00:00 end_date: 2024-10-31T16:00:00</h2><h3 id=\"poll-how-about-we-make-a-poll\">Poll: How about we make a poll</h3><p>Looking for your vote</p><hr><h3 id=\"review\">Review</h3><h2 id=\"look-it-up\">Look it up</h2><h3 id=\"next-steps\">Next Steps</h3><p>Make one</p><hr><h3 id=\"resources\">Resources</h3><p>TODO</p>",
+    "multiHash": "QmSAQjXwuFE66hGQfPfQpVR9xSCSpMEi2BJQza33VfKNbz",
+    "url": "https://raw.githubusercontent.com/PulseMakerWin/community/master/governance/polls/Do%20you%20think%20Richard%20is%20trying%20his%20hardest%20to%20make%20the%20world%20a%20better%20place%20-%20November%2015%2C%202024.md",
+    "slug": "QmSAQjXw",
+    "title": "Do you think Richard is trying his hardest to make the world a better place? - November 15, 2024",
+    "summary": "Signal your support or opposition to the question.",
+    "discussionLink": "https://x.com/RichardHeartWin/status/1657159405551378435",
+    "content": "<h1>Poll: Do you think that Richard is trying his hardest to make the world a better place? - November 15, 2024</h1>\n<p>Given the state of the world over the last few years, do you believe that freedom of speech, freedom of assembly, and freedom of movement are crucial human rights, and do you believe that Richard and his team are doing as much as they can to ensure you keep those rights?</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the changes in the following Github Pull Request:</p>\n<p>Please review the discussion <a href=\"https://x.com/RichardHeartWin/status/1657159405551378435\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>The thanks will be given, and the retweets will commence. Learn more at the discussion link.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Maker Protocol, please see the <a href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a href=\"https://manual.makerdao.com\">Maker Operational Manual</a>.</p>",    
     "options": {
       "0": "Abstain",
       "1": "Yes",
@@ -36,19 +36,18 @@
             {
               "type": "comparison",
               "comparator": ">=",
-              "value": 20000
+              "value": 10000
             }
           ]
         },
         {
           "type": "default",
-          "value": 2
+          "value": 0
         }
       ]
     },
     "tags": [
-      "high-impact",
-      "endgame"
+      "misc-governance"
     ]
   }
 ]
