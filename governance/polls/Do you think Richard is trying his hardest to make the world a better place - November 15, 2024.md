@@ -1,4 +1,3 @@
-
 ---
 title: Do you think Richard is trying his hardest to make the world a better place? - November 15, 2024
 summary: Signal your support or opposition to the question.

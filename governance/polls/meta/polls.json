@@ -3,7 +3,7 @@
     "creator": "0x478CC66Cd197895B80Bd84B57102b01CFf08e8cd",
     "pollId": 1002,
     "blockCreated": 21942937,
-    "startDate": "2024-11-14T16:00:00.000Z",
+    "startDate": "2024-11-15T16:00:00.000Z",
     "endDate": "2024-12-06T16:00:00.000Z",
     "multiHash": "QmSAQjXwuFE66hGQfPfQpVR9xSCSpMEi2BJQza33VfKNbz",
     "url": "https://raw.githubusercontent.com/PulseMakerWin/community/master/governance/polls/Do%20you%20think%20Richard%20is%20trying%20his%20hardest%20to%20make%20the%20world%20a%20better%20place%20-%20November%2015%2C%202024.md",
@@ -47,7 +47,7 @@
       ]
     },
     "tags": [
-      "misc-governance"
+      "greenlight"
     ]
   }
 ]
