@@ -3,9 +3,18 @@ title: Do you think Richard is trying his hardest to make the world a better pla
 summary: Signal your support or opposition to the question.
 discussion_link: https://x.com/RichardHeartWin/status/1657159405551378435
 parameters:
-    input_format: single-choice
+    input_format:
+        type: single-choice
+        abstain: [0]
     victory_conditions:
-        - { type : plurality }
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 0 }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
