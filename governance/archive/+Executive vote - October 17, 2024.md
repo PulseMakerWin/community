@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Testing 12 - Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave-SparkLend Revenue Share Payment for Q3 2024, Spark Proxy Spell - October 17, 2024
+title: Template - [Executive Vote] Testing 112 - Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave-SparkLend Revenue Share Payment for Q3 2024, Spark Proxy Spell - October 17, 2024
 summary: Initialize the Seal Engine, fund the Multisig responsible for distributing Early Bird Rewards, reduce debt ceilings of deprecated RWA vaults, approve DAO Resolution for Pinwheel, transfer payment for the Aave-SparkLend Revenue Share for Q3 2024, execute a Spark Proxy Spell.
 date: 2023-07-07T00:00:00.000Z
 address: "0xbE286431454714F511008713973d3B053A2d38f3"
