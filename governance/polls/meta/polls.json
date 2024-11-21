@@ -36,7 +36,7 @@
             {
               "type": "comparison",
               "comparator": ">=",
-              "value": 1000
+              "value": 250
             }
           ]
         },
@@ -56,9 +56,9 @@
     "blockCreated": 21992033,
     "startDate": "2024-11-21T16:00:00.000Z",
     "endDate": "2024-12-06T16:00:00.000Z",
-    "multiHash": "QmSAQjXwuFE66hGQfPfQpVR9xSCSpMEi2BJQza33VfKNbz",
+    "multiHash": "Qmaa3VbdbVPJpq1uok5nYiaAio9XoydDSNHbunU3BRRV6y",
     "url": "https://raw.githubusercontent.com/PulseMakerWin/community/master/governance/polls/Proposal%20to%20add%20core%20PulseChain%20coins%20as%20collateral.md",
-    "slug": "QmSAQjXw",
+    "slug": "Qmaa3Vbd",
     "title": "Proposal to add core PulseChain coins as vault collateral - November 21, 2024",
     "summary": "Signal your support or opposition to the proposal.",
     "discussionLink": "https://t.me/PulseChainMKR",
