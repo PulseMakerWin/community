@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] WPLS Onboarding, DAI Savings Rate Adjustment - December 30, 2024
 summary: Onboarding WPLS-A and adjusting the DAI Savings Rate.
 date: 2024-12-30T00:00:00.000Z
-address: "$spell_address"
+address: "0x1afbc9662104d6Ba2e07a38F5EF1e3De1B89fc7a"
 ---
 
 # [Executive Proposal] WPLS Onboarding, DAI Savings Rate Adjustment - December 30, 2024
