@@ -43,7 +43,7 @@ As per this successful [governance poll](https://pulsemaker.win/polling/Qmaa3Vbd
 
 - **Underlying Collateral**: WPLS (Wrapped Pulse)
 - **[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)**: 10%
-- **[Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio)**: 175%
+- **[Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio)**: 150%
 - **[Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor)**: 0 DAI
 - **[Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line)**: 5 million DAI  
 - **[Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap)**: 3 million DAI  
